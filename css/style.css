@@ -72,9 +72,7 @@ body {
     padding: 10px;
 }
 
-.lower p {
-    font-size: 10px;
-}
+
 
 .year img {
     width: 30px;
@@ -89,16 +87,17 @@ body {
     background-color: hsla(225, 100%, 94%, 0.506);
 }
 
-h3 {
+h2 {
     text-transform: capitalize;
     padding-bottom: 10px;
-    font-size: 12px;
-    font-weight: 900;
+    font-size: 15px;
+    font-weight: bolder;
 }
 
 .lower p {
     line-height: 15px;
     font-weight: 600;
+    font-size: 8px;
     color: hsla(224, 23%, 55%, 0.671);
     padding-bottom: 10px;
 }
@@ -110,7 +109,7 @@ h3 {
 }
 
 .annual span {
-    
+
     color: rgb(0, 0, 0);
 }
 
@@ -139,23 +138,14 @@ a {
 }
 
 .last {
-    font-size: 10px;
-    font-weight: 800;
+    font-size: 8px;
+    font-weight:bolder;
     color: hsl(224, 23%, 55%);
     padding-top: 10px;
     cursor: pointer;
+
 }
 
 .last:hover {
     color: hsl(245, 88%, 25%);
-}
-
-
-
-pete {
-    color: hsl(225, 100%, 94%);
-    color: hsl(225, 100%, 98%);
-    color: hsl(245, 75%, 52%);
-    color: hsl(224, 23%, 55%);
-    color: hsl(223, 47%, 23%);
 }
